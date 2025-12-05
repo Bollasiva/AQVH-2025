@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Quantum Banking Platform
 
 A cutting-edge banking platform that leverages IBM Quantum computers for secure transaction processing using BB84 Quantum Key Distribution protocol.
@@ -358,3 +359,6 @@ The application uses:
 - Database automatically creates collections on first use
 #   Q k d 2 _ t r a n s a c t i o n  
  
+=======
+# AQVH-2025
+>>>>>>> 46e65e9454ef346a9b61efd344d79606acd5d2f6
